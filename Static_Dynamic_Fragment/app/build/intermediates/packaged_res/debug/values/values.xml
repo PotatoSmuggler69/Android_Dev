@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cream">#FDD96B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Static_Dynamic_Fragment</string>
+    <string name="hello_blank_fragment">This is the text for the dynamic_fragment</string>
+    <style name="Base.Theme.Static_Dynamic_Fragment" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Static_Dynamic_Fragment" parent="Base.Theme.Static_Dynamic_Fragment"/>
+</resources>

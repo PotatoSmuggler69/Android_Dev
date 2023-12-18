@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+anim fade
+anim slide_in
+anim slide_out
+color black
+color neon_green
+color purple
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_1
+id btn_2
+id btn_3
+id dashboard_count_info
+id dashboard_info
+id frag_dashboard_btn1
+id layout_buttons
+id layout_heading
+id layout_pane
+id txt_heading
+layout activity_main
+layout fragment_dash_board
+layout fragment_home
+layout fragment_settings
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Fragment_Practice
+style Theme.Fragment_Practice
+xml backup_rules
+xml data_extraction_rules

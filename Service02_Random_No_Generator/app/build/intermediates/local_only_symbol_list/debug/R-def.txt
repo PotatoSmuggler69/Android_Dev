@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_get_random_number
+id btn_start_service
+id btn_stop_service
+id txt_random_number
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Service02_Random_No_Generator
+style Theme.Service02_Random_No_Generator
+xml backup_rules
+xml data_extraction_rules

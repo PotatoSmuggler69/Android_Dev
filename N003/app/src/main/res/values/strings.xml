@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">N003</string>
+    <string name="channel_name">Message Channel</string>
+    <string name="channel_description">This channel contains the messages</string>
+</resources>

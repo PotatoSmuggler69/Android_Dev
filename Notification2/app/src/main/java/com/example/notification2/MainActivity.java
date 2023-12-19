@@ -60,4 +60,8 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+
+    private void startNotification2(){
+       NotificationCompat.Builder
+    }
 }

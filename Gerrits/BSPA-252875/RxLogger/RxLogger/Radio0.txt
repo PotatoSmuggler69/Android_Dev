@@ -1,0 +1,80 @@
+--------- beginning of radio
+07-18 06:53:25.917  2005  2005 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:26.509  2005  2599 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:26.906  2005  2752 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:27.371  2005  2601 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:27.377  2005  2005 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:27.619  2005  2005 D TelephonyRegistry: systemRunning register for intents
+07-18 06:53:27.666  2005  2060 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:27.793  2832  2832 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:28.500  2669  2669 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:28.752  2005  2160 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:28.785  2832  2880 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:29.162  2005  2723 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:29.181  2669  2669 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:29.187  2669  2669 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:29.216  2005  2753 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:29.477  2832  2880 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:29.625  2832  2880 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:29.699  2832  2880 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:30.155  2005  2005 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:30.167  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:30.959  2832  2880 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:32.268  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:32.280  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:33.784  2005  3118 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:33.784  2005  2723 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:35.586  2005  2159 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:40.878  2005  2160 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:42.738  2005  6624 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:44.492  2005  6624 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:53:48.078  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:48.165  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:48.189  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:49.083  6573  6635 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:57.399  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:53:57.428  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:00.704  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:00.712  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:06.057  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:06.087  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:07.887  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:07.901  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:08.648  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:08.658  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:09.112  2005  6624 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 06:54:17.686  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 06:54:17.722  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:06:11.313  2005  4968 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:07:26.557  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:07:26.564  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:07:36.166  2005  4926 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:07:36.973  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:07:36.979  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:07:37.022  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:07:37.031  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:12.036  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:12.046  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:13.137  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:13.146  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:23.067  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:23.076  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:40.469  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:08:40.484  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:33:47.610  2005  3461 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:33:49.211  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:33:49.228  2005  2005 W CarrierConfigManager: Error getting config for subId -1 ICarrierConfigLoader is null
+07-18 07:34:02.961  2005  4954 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:02.964  2005  4954 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:07.573  2005  4811 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:07.576  2005  2159 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:14.441  2005  5026 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:14.444  2005  5026 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:37.150  2005  4811 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:37.153  2005  2159 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:40.713  2005  5026 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:34:40.717  2005  4954 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:35:30.696  2005  2752 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:35:30.699  2005  2752 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:35:35.115  2005  4926 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback
+07-18 07:35:35.119  2005  6665 D TelephonyRegistry: listen oscl: mHasNotifySubscriptionInfoChangedOccurred==false no callback

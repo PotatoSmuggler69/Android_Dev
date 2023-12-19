@@ -10,71 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="768d2981-1b4f-4902-965e-b17ab929a82a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Fragment_BackStack/app/src/main/java/com/example/fragment_backstack/Fragment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_BackStack/app/src/main/java/com/example/fragment_backstack/Fragment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_BackStack/app/src/main/java/com/example/fragment_backstack/Fragment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_BackStack/app/src/main/res/layout/fragment_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_BackStack/app/src/main/res/layout/fragment_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_BackStack/app/src/main/res/layout/fragment_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/java/com/example/fragment_practice/DashBoardFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/java/com/example/fragment_practice/HomeFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/java/com/example/fragment_practice/SettingsFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/res/anim/fade.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/res/anim/slide_in.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/res/anim/slide_out.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/res/layout/fragment_dash_board.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Fragment_Practice/app/src/main/res/layout/fragment_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/JokeApiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/JokeModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/RetrofitInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service01_MakingService_StoppingService/app/src/main/java/com/example/service01_makingservice_stoppingservice/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/app/src/main/java/com/example/service02_random_no_generator/NotificationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/app/src/main/java/com/example/service02_random_no_generator/RandomNumberGeneratorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Service02_Random_No_Generator/app/src/main/java/com/example/service02_random_no_generator/RunningApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static_Dynamic_Fragment/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static_Dynamic_Fragment/app/src/main/java/com/example/static_dynamic_fragment/DummyFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static_Dynamic_Fragment/app/src/main/java/com/example/static_dynamic_fragment/DynamicFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static_Dynamic_Fragment/app/src/main/java/com/example/static_dynamic_fragment/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static_Dynamic_Fragment/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Static_Dynamic_Fragment/app/src/main/res/layout/fragment_dynamic.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Activity_demo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Activity_demo/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Activity_demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Activity_demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notification2/app/src/main/java/com/example/notification2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Notification2/app/src/main/java/com/example/notification2/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +41,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Abhishek_Test_Files/Notifications_001",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"

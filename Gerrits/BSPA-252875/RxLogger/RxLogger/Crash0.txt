@@ -1,0 +1,41 @@
+--------- beginning of crash
+01-04 17:13:26.770   477   477 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 477 (init), pid 477 (init)
+01-04 17:13:26.817   477   477 F libc    : crash_dump helper failed to exec, or was killed
+07-18 06:53:31.449  3754  3754 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 3754 (init), pid 3754 (init)
+07-18 06:53:31.484  3754  3754 F libc    : crash_dump helper failed to exec, or was killed
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: FATAL EXCEPTION: main
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: Process: com.android.phone, PID: 4514
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: java.lang.RuntimeException: Unable to instantiate receiver com.zebra.phone.ZBroadcastManifestReciver: java.lang.RuntimeException: Unable to create application com.zebra.phone.ZPhoneApp: java.lang.SecurityException: Permission denial: writing to settings requires:android.permission.WRITE_SECURE_SETTINGS
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:4290)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.ActivityThread.-$$Nest$mhandleReceiver(Unknown Source:0)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2150)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:201)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:288)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:7930)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:942)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: Caused by: java.lang.RuntimeException: Unable to create application com.zebra.phone.ZPhoneApp: java.lang.SecurityException: Permission denial: writing to settings requires:android.permission.WRITE_SECURE_SETTINGS
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.LoadedApk.makeApplicationInner(LoadedApk.java:1485)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.LoadedApk.makeApplicationInner(LoadedApk.java:1395)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:4267)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	... 9 more
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: Caused by: java.lang.SecurityException: Permission denial: writing to settings requires:android.permission.WRITE_SECURE_SETTINGS
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3011)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.os.Parcel.createException(Parcel.java:2995)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.os.Parcel.readException(Parcel.java:2978)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:190)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.database.DatabaseUtils.readExceptionFromParcel(DatabaseUtils.java:142)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.content.ContentProviderProxy.call(ContentProviderNative.java:732)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.provider.Settings$NameValueCache.putStringForUser(Settings.java:3015)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.provider.Settings$Secure.putStringForUser(Settings.java:6455)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.provider.Settings$Secure.putStringForUser(Settings.java:6440)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.provider.Settings$Secure.putIntForUser(Settings.java:6655)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.provider.Settings$Secure.putInt(Settings.java:6648)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at com.zebra.phone.gmsdialer.GmsDialerHandler.<init>(GmsDialerHandler.java:71)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at com.zebra.phone.service.ZTelephonyServiceImpl.<init>(ZTelephonyServiceImpl.java:89)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at com.zebra.phone.ZPhoneApp.onCreate(ZPhoneApp.java:56)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1278)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	at android.app.LoadedApk.makeApplicationInner(LoadedApk.java:1479)
+07-18 06:54:09.133  4514  4514 E AndroidRuntime: 	... 11 more

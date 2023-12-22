@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S04_Binder_Messenger</string>
+    <string name="page_one_heading">Bound Services</string>
+    <string name="page_one_description">Bound services on the basis of concurrency it can be used in the following ways.</string>
+</resources>

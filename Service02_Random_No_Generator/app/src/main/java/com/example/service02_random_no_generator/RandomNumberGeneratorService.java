@@ -82,7 +82,7 @@ public class RandomNumberGeneratorService extends Service {
             try{
                 Thread.sleep(1000);
                 if(isRandomGeneratorOn){
-                    random_number = new Random().nextInt(max_number-min_number+1)+min_number;
+                    random_number = new Random().nextInt(max_number)+min_number;
                 }
             }
             catch (Exception e){

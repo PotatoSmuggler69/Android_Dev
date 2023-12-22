@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private void startNotification(int NOTIFICATION_ID,String message){
         // Create an explicit intent for an Activity in your app.
         Intent intent = new Intent(this, SecondActivity.class);
-        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        //intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
 
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_IMMUTABLE);
 
@@ -81,5 +81,34 @@ public class MainActivity extends AppCompatActivity {
             notificationManager.createNotificationChannel(channel);
         }
 
+    }
+
+
+    //Overrriding other lifecycle function to check the lifespan
+    //when the pendingIntent runs
+
+
+    @Override
+    protected void onPause() {
+        Log.d("Life_Cycle","--> On Pause");
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop() {
+        Log.d("Life_Cycle","--> On Start");
+        super.onStop();
+    }
+
+    @Override
+    protected void onResume() {
+        Log.d("Life_Cycle","--> On Resume");
+        super.onResume();
+    }
+
+    @Override
+    protected void onDestroy() {
+        Log.d("Life_Cycle","--> On Destroy");
+        super.onDestroy();
     }
 }

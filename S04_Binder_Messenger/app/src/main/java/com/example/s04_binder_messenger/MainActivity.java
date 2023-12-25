@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         int id = view.getId();
         if(id == R.id.btn_page_one_ibinder){
             Toast.makeText(this,"Binder Pressed",Toast.LENGTH_SHORT).show();
-            startForegroundService(inten)
+            startActivity(intent);
         }
         else if (id == R.id.btn_page_one_messenger){
 

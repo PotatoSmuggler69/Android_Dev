@@ -15,6 +15,6 @@ public class Coordinates {
 
     // setters
 
-    public void get_longitude(double l){ longitude=l; }
-    public void get_latitude(double l){ latitude=l; }
+    public void set_longitude(double l){ longitude=l; }
+    public void set_latitude(double l){ latitude=l; }
 }

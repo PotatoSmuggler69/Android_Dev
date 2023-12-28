@@ -31,6 +31,10 @@
             android:name=".MyBinderActivity">
 
         </activity>
+        <activity android:name=".MessengerDemoActivity"
+            android:exported="true">
+
+        </activity>
         <service android:name=".LocationServices"
             android:exported="false"
             android:enabled="true"

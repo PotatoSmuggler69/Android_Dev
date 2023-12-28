@@ -1,5 +1,4 @@
 package com.example.aidlserver;
-
 import android.app.Service;
 import android.content.Intent;
 import android.graphics.Color;
@@ -9,7 +8,7 @@ import android.util.Log;
 
 import java.util.Random;
 
-public class AIDLColorService extends Service {
+public class AIDLColorService extends Service{
     public AIDLColorService() {
     }
 
@@ -18,6 +17,7 @@ public class AIDLColorService extends Service {
         // TODO: Return the communication channel to the service.
         return binder;
     }
+
 
     private final IAIDLColorInterface.Stub binder = new IAIDLColorInterface.Stub() {
         @Override
